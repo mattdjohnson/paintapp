@@ -1,0 +1,9 @@
+/Applications/NetBeans/NetBeans 8.2.app/Contents/Resources/NetBeans/platform=1526167885000
+cluster./Users/baboosebats/NetBeansProjects/PaintApp2/build/cluster=1529464004000
+cluster./Applications/NetBeans/NetBeans 8.2.app/Contents/Resources/NetBeans/platform=1526167885000
+user=1529464004000
+crc=7
+locale=en_US
+branding=paintit
+java.version=1.8.0_171
+java.vm.version=25.171-b11
